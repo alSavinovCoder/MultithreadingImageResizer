@@ -1,1 +1,1 @@
-# MultithreadingPart_1
+# MultithreadingImageResizer
